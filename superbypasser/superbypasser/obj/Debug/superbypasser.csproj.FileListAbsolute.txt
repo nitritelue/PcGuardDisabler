@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\superbypasser\superbypasser\bin\Debug\superbypasser.exe.config
+C:\Users\user\source\repos\superbypasser\superbypasser\bin\Debug\superbypasser.exe
+C:\Users\user\source\repos\superbypasser\superbypasser\bin\Debug\superbypasser.pdb
+C:\Users\user\source\repos\superbypasser\superbypasser\obj\Debug\superbypasser.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\superbypasser\superbypasser\obj\Debug\superbypasser.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\superbypasser\superbypasser\obj\Debug\superbypasser.exe
+C:\Users\user\source\repos\superbypasser\superbypasser\obj\Debug\superbypasser.pdb
